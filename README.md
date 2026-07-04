@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Prathiksha%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+# Prathiksha N
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=180&section=header&fontSize=0" width="100%"/>
+
+<h3>Computer Science Engineer · AI & Full Stack Developer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+AI-powered+Applications;Full+Stack+%26+Android+Development;Turning+Ideas+Into+Working+Products;Always+Learning.+Always+Building."/>
 
