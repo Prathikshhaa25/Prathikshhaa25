@@ -12,10 +12,17 @@
 <a href="mailto:prathikshanagarajan07@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="tel:9750022237">
+<img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 <a href="https://github.com/Prathikshhaa25">
 <img src="https://img.shields.io/github/followers/Prathikshhaa25?style=for-the-badge&label=Followers&color=7C3AED"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Prathikshhaa25&style=for-the-badge&color=2563EB&label=Profile+Views"/>
+
+<br/><br/>
+
+📍 Coimbatore, Tamil Nadu, India
 
 </div>
 
@@ -33,7 +40,7 @@
 
 ## 👋 About Me
 
-I'm a **Computer Science Engineering** student at **PSG Institute of Technology and Applied Research**, driven by a genuine curiosity for how software can solve real, human problems — not just run in a demo.
+A passionate **Computer Science and Engineering** student with a strong foundation in programming, data structures, and database systems — eager to apply technical skills to solve practical problems and build innovative solutions.
 
 My work spans **Artificial Intelligence**, **Full Stack Development**, and **Android Development**. I like taking a project from a rough idea to something people can actually use: designing the architecture, wiring up the backend, and polishing the experience until it feels right.
 
@@ -125,13 +132,12 @@ Exploring practical ML applications for real-world impact.
 <td valign="top" width="50%">
 
 ### ⚖️ Tech-In-Law
-AI-powered legal assistance platform that simplifies case filing through multilingual voice interaction and intelligent guidance.
+<sub>Jan 2026</sub> · AI-based legal assistance platform for guided legal case filing.
 
 **Highlights**
-- AI-assisted legal guidance
-- Voice-based multilingual interaction
-- Biometric authentication
-- Streamlined legal workflow
+- AI-enabled guided case filing
+- Voice support & biometric authentication
+- Improved justice accessibility for underserved users
 
 `Python` `Machine Learning` `AI`
 
@@ -155,12 +161,11 @@ Service management app for AC installation, maintenance, and customer support op
 <td valign="top" width="50%">
 
 ### 🩺 MEDIAlarm
-Medical early-detection platform using AI for intelligent disease prediction.
+<sub>Nov 2025</sub> · AI-based platform for early disease prediction.
 
 **Highlights**
-- Disease prediction pipeline
-- BioBERT-based NLP model
-- LSTM-based forecasting
+- BioBERT & LSTM for medical data analysis
+- Improved prediction accuracy via intelligent forecasting
 - Healthcare analytics dashboard
 
 `Python` `BioBERT` `LSTM`
@@ -169,15 +174,29 @@ Medical early-detection platform using AI for intelligent disease prediction.
 <td valign="top" width="50%">
 
 ### 📊 AI Investment Intelligence
-ML platform for portfolio risk analysis and investment monitoring.
+<sub>Feb 2026</sub> · ML-based system for portfolio risk classification & investment monitoring.
 
 **Highlights**
-- Risk prediction models
-- Portfolio analysis
-- Smart alerting system
-- Interactive data visualization
+- Portfolio risk classification
+- Automated investment alerts
+- Predictive analytics for decision-making
 
 `Python` `Machine Learning`
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%" colspan="2">
+
+### ☀️ Solar Tracker System
+<sub>Jan 2025</sub> · Automated solar tracking system built with Arduino and sensors.
+
+**Highlights**
+- Real-time directional adjustment
+- Sensor-based automated tracking
+- Improved solar energy absorption efficiency
+
+`Arduino` `C` `Embedded Systems`
 
 </td>
 </tr>
@@ -216,8 +235,30 @@ ML platform for portfolio risk analysis and investment monitoring.
 
 **Education**
 
-🎓 B.E. Computer Science and Engineering
-<br/><sub>PSG Institute of Technology and Applied Research</sub>
+| Degree | Institution | Duration | Score |
+|---|---|---|---|
+| 🎓 B.E. CSE | PSG Institute of Technology and Applied Research | 2024 – 2028 | CGPA 8.76 *(III Sem)* |
+| 🏫 Higher Secondary | Bharatiya Vidya Bhavan Matriculation HSS | 2023 – 2024 | 92% |
+| 🏫 Secondary | Graham Staines Matriculation HSS | 2021 – 2022 | 97.8% |
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**🧩 Soft Skills**
+
+`Problem Solving` `Critical Thinking` `Effective Communication` `Adaptability` `Leadership` `Time Management`
+
+</td>
+<td valign="top" width="50%">
+
+**🌐 Languages**
+
+Tamil — Fluent &nbsp;|&nbsp; English — Fluent &nbsp;|&nbsp; Hindi — Basic
 
 </td>
 </tr>
