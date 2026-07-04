@@ -220,3 +220,8 @@ Arduino-based automatic solar tracker
 ⭐ *"Turning ideas into impactful technology, one project at a time."* ⭐
 
 </h2>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prathikshhaa25/Prathikshhaa25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
