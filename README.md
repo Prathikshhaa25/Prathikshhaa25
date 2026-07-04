@@ -1,159 +1,432 @@
-<h1 align="center">Prathiksha N</h1>
+<div align="center">
 
-<p align="center">
-Computer Science Engineering Student • Artificial Intelligence • Full Stack Development
-</p>
+# Prathiksha N
 
-<p align="center">
-<a href="https://github.com/Prathikshhaa25">
-<img src="https://img.shields.io/github/followers/Prathikshhaa25?style=flat-square">
-</a>
+### Computer Science Engineering Student • AI Enthusiast • Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI-powered+Applications.;Passionate+about+Software+Engineering.;Android+Developer+in+Progress.;Always+Learning.+Always+Building."/>
+
+<br>
 
 <a href="https://www.linkedin.com/in/prathiksha-nagarajan-aa4731325">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:prathikshanagarajan07@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Prathikshhaa25">
+<img src="https://img.shields.io/github/followers/Prathikshhaa25?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Prathikshhaa25&style=for-the-badge&color=2563EB"/>
+
+</div>
+
+---
+
+# About
+
+I am a **Computer Science Engineering** student at **PSG Institute of Technology and Applied Research** with a strong interest in **Artificial Intelligence**, **Software Engineering**, **Android Development**, and **Full Stack Development**.
+
+I enjoy designing technology that solves real-world problems. My interests lie in building scalable software, exploring machine learning applications, and continuously improving my engineering skills through projects, hackathons, and technical competitions.
+
+Currently, I am focused on strengthening my foundation in **Data Structures & Algorithms**, **Android Development**, and **Backend Engineering** while building impactful software projects.
+
+---
+
+# Technical Skills
+
+<table>
+
+<tr>
+
+<td width="180">
+
+### Languages
+
+</td>
+
+<td>
+
+Python • Java • C • JavaScript
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Frontend
+
+</td>
+
+<td>
+
+HTML • CSS • React
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Backend
+
+</td>
+
+<td>
+
+Node.js • Firebase
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Database
+
+</td>
+
+<td>
+
+MySQL • PostgreSQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Tools
+
+</td>
+
+<td>
+
+Git • GitHub • VS Code • Android Studio • Postman • Figma
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Core Subjects
+
+</td>
+
+<td>
+
+Data Structures • DBMS • Operating Systems • OOP • Artificial Intelligence
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Current Focus
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+### Software Engineering
+
+Building scalable applications with clean architecture.
+
+</td>
+
+<td width="33%" align="center">
+
+### Android Development
+
+Developing modern mobile applications using Android Studio and Firebase.
+
+</td>
+
+<td width="33%" align="center">
+
+### Artificial Intelligence
+
+Exploring practical applications of Machine Learning and Intelligent Systems.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,react,nodejs,firebase,mysql,postgres,git,github,vscode,androidstudio,figma,postman&perline=9"/>
 
 </p>
 
----
+---# Featured Projects
 
-## About
+<table>
+<tr>
 
-I am a Computer Science Engineering student at **PSG Institute of Technology and Applied Research** with a strong interest in Software Engineering, Artificial Intelligence, Machine Learning, and Full Stack Development.
-
-I enjoy building technology that solves real-world problems while continuously improving my problem-solving and software development skills through projects, hackathons, and engineering practice.
-
----
-
-## Technical Skills
-
-| Category | Technologies |
-|-----------|--------------|
-| Languages | C, Python, Java, JavaScript |
-| Frontend | HTML, CSS, React |
-| Backend | Node.js |
-| Database | MySQL, PostgreSQL |
-| Tools | Git, GitHub, VS Code, Android Studio, Postman, Figma |
-| Core Subjects | Data Structures, DBMS, Operating Systems, Artificial Intelligence |
-
----
-
-## Featured Projects
+<td width="50%">
 
 ### Tech-In-Law
 
-AI-powered legal assistance platform designed to simplify legal case filing through multilingual voice guidance and biometric authentication.
+AI-powered legal assistance platform designed to simplify legal case filing through multilingual voice interaction and intelligent guidance.
 
-**Technologies**
+**Highlights**
 
-Python • Artificial Intelligence • Machine Learning
+- AI-assisted legal guidance
+- Voice-based interaction
+- Biometric authentication
+- User-friendly legal workflow
 
----
+**Tech Stack**
+
+Python • Machine Learning • AI
+
+</td>
+
+<td width="50%">
 
 ### ELVIN Engineers
 
-Mobile application for AC installation and service management.
+Service management application for AC installation, maintenance, and customer support operations.
 
-Features include employee login, service tracking, customer management, OTP authentication, and job assignment.
+**Highlights**
 
-**Technologies**
+- Worker management
+- Service tracking
+- Customer management
+- OTP authentication
+
+**Tech Stack**
 
 Android • Firebase • Java
 
----
+</td>
 
-### AI Investment Management System
+</tr>
 
-Machine learning based investment analysis platform capable of portfolio risk prediction and intelligent investment monitoring.
+<tr>
 
-**Technologies**
-
-Python • Machine Learning
-
----
+<td width="50%">
 
 ### MEDIAlarm
 
-AI-powered healthcare platform for disease prediction using BioBERT and LSTM models.
+Medical early detection platform using Artificial Intelligence for intelligent disease prediction.
 
-**Technologies**
+**Highlights**
+
+- Disease prediction
+- BioBERT model
+- LSTM forecasting
+- Healthcare analytics
+
+**Tech Stack**
 
 Python • BioBERT • LSTM
 
+</td>
+
+<td width="50%">
+
+### AI Investment Intelligence
+
+Machine learning platform for portfolio risk analysis and investment monitoring.
+
+**Highlights**
+
+- Risk prediction
+- Portfolio analysis
+- Smart alerts
+- Data visualization
+
+**Tech Stack**
+
+Python • Machine Learning
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-## Experience
+# Achievements
 
-Coordinator — Mind Heist, Yukta 2026
-
-Active NSS Volunteer
-
-Hackathon Participant
-
----
-
-## Achievements
-
-- Finalist — GDG Hackathonic 2.0
-- Finalist — St. Joseph's Impact AI-thon
-- Qualified for Round 2 — ITech Ideathon
+| Achievement | Organization |
+|-------------|--------------|
+| Finalist | GDG Hackathonic 2.0 |
+| Finalist | St. Joseph's Impact AI-thon |
+| Qualified for Round 2 | ITech Ideathon |
+| Event Coordinator | Mind Heist – Yukta 2026 |
+| Active Volunteer | National Service Scheme (NSS) |
 
 ---
 
-## Certifications
+# Certifications
 
-- NPTEL Programming in C
+- NPTEL — Programming in C
 - MATLAB Onramp
 - Linux Certification
 
 ---
 
-## Currently Learning
+# Education
 
-- Data Structures & Algorithms
-- Android Development
-- Full Stack Development
-- Machine Learning
-- System Design
+| Degree | Institution |
+|---------|-------------|
+| B.E. Computer Science and Engineering | PSG Institute of Technology and Applied Research |
 
 ---
 
-## GitHub Statistics
+# Areas of Interest
 
-<p align="center">
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+Artificial Intelligence
+
+</td>
+
+<td align="center" width="25%">
+
+Software Engineering
+
+</td>
+
+<td align="center" width="25%">
+
+Full Stack Development
+
+</td>
+
+<td align="center" width="25%">
+
+Android Development
+
+</td>
+
+</tr>
+
+</table>
+
+---# GitHub Analytics
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathikshhaa25&show_icons=true&hide_border=true&theme=github_dark"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathikshhaa25&layout=compact&hide_border=true&theme=github_dark"/>
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prathikshhaa25&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
-## Contribution Graph
+# Development Journey
 
-<p align="center">
+```
+2024
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathikshhaa25&theme=github-dark"/>
+Started B.E. Computer Science Engineering
 
-</p>
+↓
+
+Built Arduino-based projects
+
+↓
+
+Explored Machine Learning & AI
+
+↓
+
+Participated in Hackathons & Ideathons
+
+↓
+
+Developing Android Applications
+
+↓
+
+Learning Full Stack Development
+
+↓
+
+Preparing for Software Engineering Internships
+```
 
 ---
 
-## Contact
+# 2026 Goals
 
-**Email**
+- Build production-ready Android applications
+- Strengthen Data Structures & Algorithms
+- Contribute to Open Source
+- Publish high-quality technical projects
+- Secure a Software Engineering Internship
+- Expand knowledge in Artificial Intelligence and Backend Development
 
-prathikshanagarajan07@gmail.com
+---
 
-**LinkedIn**
+# Connect
 
-https://www.linkedin.com/in/prathiksha-nagarajan-aa4731325
+<div align="center">
 
-**GitHub**
+<a href="mailto:prathikshanagarajan07@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-https://github.com/Prathikshhaa25
+<a href="https://www.linkedin.com/in/prathiksha-nagarajan-aa4731325">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prathikshhaa25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building technology that creates meaningful impact."
+
+<br>
+
+Thanks for visiting my profile.
+
+</div>
